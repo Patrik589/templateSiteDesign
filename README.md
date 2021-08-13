@@ -23,7 +23,7 @@
    
 </p>
 
-###Sobre
+## 💻 Sobre o projeto
 
 
 📐ArqDesign - O ArqDesign é um template de site, que a príncipio vai ser utilizado para um site de arquitetura, mas pode ser usado para qualquer outro tipo de coisas com a devida alteração.
